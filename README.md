@@ -1,5 +1,5 @@
 # ping pong
-#### the project basically allows you to play around with numbers where the numbers divisible by 3 turn to ping, the numbers divisible by 5 turn to pong and the numbers divisible by 15 turn to pingpong
+#### Game of ping-pong
 #### By **created by Daniel Theuri**
 ## Description
  the project basically allows you to play around with numbers where the numbers divisible by 3 turn to ping, the numbers divisible by 5 turn to pong and the numbers divisible by 15 turn to pingpong
