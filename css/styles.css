@@ -1,12 +1,14 @@
-.jumbotron {
+#tit {
   background-color: #F3DA6D;
   text-align: center;
+  padding-bottom: 90px;
 }
 #kit {
   background-color: #C2CCC7;
+
 }
 .ten {
-  padding-top: 50px;
+  padding-top: 20px;
 }
 #git {
   background-color: #00cc89;
@@ -16,4 +18,10 @@
 }
 .lit {
   color: white;
+}
+.vit {
+  padding-top: 80px;
+}
+h1 {
+  font-size:70px;
 }
